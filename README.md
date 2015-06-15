@@ -49,6 +49,8 @@
 
 [Pro PHP MVC](rn022.md)
 
+[MongoDB权威指南](rn023.md)
+
 ### 计划阅读
 
 《设计模式之禅》、《HeadFirst设计模式》
