@@ -24,6 +24,10 @@
 #### PHP
 1. [Pro PHP MVC](rn022.md)
 
+#### Python
+1. [Python核心编程](rn041.md)
+2. [Python参考手册](rn042.md)
+
 #### 数据库
 1. [MongoDB权威指南](rn023.md)
 
