@@ -43,6 +43,8 @@
 1. [MongoDB权威指南](rn023.md)
 2. [数据库设计教程](rn047.md)
 3. [数据库设计解决方案入门经典](rn050.md)
+4. [MySQL技术内幕-SQL编程](rn056.md)
+5. [高性能mysql](rn057.md)
 
 #### Shell
 1. [LINUX与UNIX SHELL编程指南](rn046.md)
